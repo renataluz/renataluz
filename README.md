@@ -4,7 +4,7 @@
 
 - 🔭 Sou formada em Engenharia de Alimentos e Análise e Densenvolvimentos de Sistemas. Por motivos pessoais, fiz uma pausa na carreira e atualmente estou me capacitando para retornar com tudo para a área de programação que me fascina desde o primeiro contato.
   
-- 🌱 Atualmente sou aluna no curso intensivo de desenvolvimento de software com foco em back-end na Cubos Academy por meio de uma bolsa que fui contemplada no programa de bolsas do Potência Tech - Ifood. Futuramente pretendo aprofundar meus estudos em Front-end para me tornar uma desenvolvedora Full-stack.
+- 🌱 Atualmente sou aluna no curso intensivo de desenvolvimento de software com foco em back-end, na Cubos Academy, sendo contemplada no programa de bolsas do Potência Tech - Ifood. Futuramente pretendo aprofundar meus estudos em Front-end para me tornar uma desenvolvedora Full-stack.
   
 - ⚡Pratico Muay Thai🥊 e Yoga🧘‍♀️! Para mim, essas atividades se complementam me auxiliando a silenciar a mente e sustentar o foco, renovando minhas ideias e trazendo novas soluções.
 ##
